@@ -9,10 +9,11 @@
       <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
       </tr>
       <tr>
-      <td style="border: none"><img src="Results/3-character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic.gif"></td>
-      <td style="border: none"><img src="Results/2-photo-of-coastline,-rocks,-storm-weather,-wind,-waves,-lightning,-8k.gif"></td>
+      <td style="border: none"><img src="Results/0-1girl,-offshoulder,-light-smile,-shiny-skin-best-quality,-masterpiece,-photorealistic.gif"></td>
+      <td style="border: none"><img src="Results/2-cut-tusuncub-walking-in-the-snow,-blurry,-looking-at-viewer,.gif"></td>
+       <td style="border: none"><img src="Results/2-best-quality,-masterpiece,-photorealistic,-1girl,-light-smile,-shirt-with-collars,.gif"></td>      
       <td style="border: none"><img src="Results/1-close-up-photo-of-a-rabbit,-forest,-haze,-halation,-bloom,.gif"></td>
-      <td style="border: none"><img src="Results/3-a-golden-labrador,-warm-vibrant-colours,-natural-lighting,-dappled-lighting,.gif"></td>
+     
       </tr>
       <tr >
       <td  style="border: none; text-align: center">character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic </td>
