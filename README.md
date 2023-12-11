@@ -3,10 +3,10 @@
 
 <table class="center">
       <tr >
-      <td  style="border: none; text-align: center">Out </td>
-      <td  style="border: none; text-align: center">Out</td>
-      <td  style="border: none; text-align: center">Out</td>
-      <td  style="border: none; text-align: center">Out</td>
+      <td  style="border: none; text-align: center">Video/Prompt </td>
+      <td  style="border: none; text-align: center">Video/Prompt</td>
+      <td  style="border: none; text-align: center">Video/Prompt</td>
+      <td  style="border: none; text-align: center">Video/Prompt</td>
       </tr>
       <tr>
       <td style="border: none"><img src="Results/3-character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic.gif"></td>
@@ -15,10 +15,10 @@
       <td style="border: none"><img src="Results/3-a-golden-labrador,-warm-vibrant-colours,-natural-lighting,-dappled-lighting,.gif"></td>
       </tr>
       <tr >
-      <td  style="border: none; text-align: center">Out </td>
-      <td  style="border: none; text-align: center">Out</td>
-      <td  style="border: none; text-align: center">Out</td>
-      <td  style="border: none; text-align: center">Out</td>
+      <td  style="border: none; text-align: center">character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic </td>
+      <td  style="border: none; text-align: center">photo-of-coastline,-rocks,-storm-weather,-wind,-waves,-lightning,-8k</td>
+      <td  style="border: none; text-align: center">close-up-photo-of-a-rabbit,-forest,-haze,-halation,-bloom</td>
+      <td  style="border: none; text-align: center"> golden-labrador,-warm-vibrant-colours,-natural-lighting,-dappled-lighting</td>
       </tr>
        <td style="border: none"><img src="Results/ezgif.com-video-to-gif.gif"></td>
       <td style="border: none"><img src="Results/ezgif.com-video-to-gif (3).gif"></td>
