@@ -40,7 +40,7 @@
       </tr>
 </table>
 
-
+## 🎆🎆Models..
   - Please download the MotionLoRA models (**74 MB per model**, available at [Google Drive](https://drive.google.com/drive/folders/1EqLC65eR1-W-sGD0Im7fkED6c8GkiNFI?usp=sharing) / [HuggingFace](https://huggingface.co/guoyww/animatediff) and save them to the `models/MotionLoRA` folder. Example:
   ```
   python -m scripts.animate --config configs/prompts/v2/5-RealisticVision-MotionLoRA.yaml
@@ -49,5 +49,14 @@
  `mm_sd_v15_v2.ckpt` was trained on larger resolution & batch size, and gains noticeable quality improvements. Check it out at [Google Drive](https://drive.google.com/drive/folders/1EqLC65eR1-W-sGD0Im7fkED6c8GkiNFI?usp=sharing) and use it with `configs/inference/inference-v2.yaml`. Example:
   ```
   python -m scripts.animate --config configs/prompts/v2/5-RealisticVision.yaml
+
   ```
+
+## 🖨🖨Run 
+```
+python app.py
+```
+By default, the demo will run at `localhost:7860`.
+<br>
+
   
