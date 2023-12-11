@@ -32,10 +32,10 @@
       <td style="border: none"><img src="Results/ezgif.com-video-to-gif (2).gif"></td>
       </tr>
        <tr >
-      <td  style="border: none; text-align: center">The_astronaut_dances_in_futuristic_city,_cyberpunk_style</td>
-      <td  style="border: none; text-align: center">A_daring_man_performing_gravity-defying_stunts_on_a_high-speed,_blue_motorbike_in_an_empty_parking_lot.</td>
-      <td  style="border: none; text-align: center">A_daring_man_is_scaling_a_treacherous_and_jagged_peak_in_the_alpine_wilderness.</td>
-      <td  style="border: none; text-align: center">controlvideo_A_mighty_elephant_marches_steadily_through_the_rugged_terrain.</td>
+      <td  style="border: none; text-align: center">The_astronaut_dances_in_futuristic..</td>
+      <td  style="border: none; text-align: center">A_daring_man_performing_gravity-defying</td>
+      <td  style="border: none; text-align: center">A_daring_man_is_scaling_a_treacherous..</td>
+      <td  style="border: none; text-align: center">A_mighty_elephant_marches_steadily.</td>
       </tr>
 </table>
 
